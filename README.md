@@ -5,6 +5,7 @@
 * Patuhi deadline commit yang telah ditentukan di repository tugas. Jika ada salah satu commit yang melebihi deadline commit, maka akan tidak dilakukan penilaian;
 * Kerjakan semua tugas dengan **jujur**;
 * Semua pelanggaran dalam pengerjaan tugas, misalkan duplikasi atau tidak mematuhi aturan yang tertulis di tiap repository tugas, nilai akan langsung **E** untuk tugas yang dimaksud;
+* Pull Request harus menyertakan NIM, Nama dan Kelas. Jika tidak ada, maka tidak diikutkan dalam penilaian;
 * Jika ada yang perlu ditanyakan mengenai aturan tugas takehome ini, silakan ajukan Issue baru di repository ini. Atau tanyakan langsung ke asisten.
 
 ### Kontak Asisten ###
